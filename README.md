@@ -9,9 +9,7 @@ Dev.to: https://dev.to/raphaeldasilva
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais interesse e afinidade.
-
-Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
 
 ***
 
@@ -23,7 +21,7 @@ Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2013).
 
-### Conceitos da Orientação a Objetos
+### Conceitos da Orientação a Objetos que me interessam
 
 * Conceito de abstração.
 * Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
@@ -41,14 +39,20 @@ Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://
 
 Links com os principais posts que escrevi no meu blog.
 
-* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
+PHP
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
+
+Ferramentas:
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
-* [Relacionamentos e interfaces](https://raphael-da-silva.github.io/relacionamentos-com-interfaces/)
 * [Uso do pipe (a.k.a o tubo que conecta tudo)](https://raphael-da-silva.github.io/uso-do-pipe/)
-* [Métodos estáticos e seus problemas](https://raphael-da-silva.github.io/metodos-estaticos/)
+
+Interfaces:
+* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
+* [My top Rap producers with code](https://dev.to/raphaeldasilva/my-top-rap-producers-with-code-5080)
+* [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
+* [Contando histórias com uma inferface](https://dev.to/raphaeldasilva/contando-historias-com-uma-inferface-2ih1)
 
 ### Participação no stackoverflow em português
 
