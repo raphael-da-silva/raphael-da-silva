@@ -40,7 +40,6 @@ Ferramentas:
 
 Interfaces:
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
-* [My top Rap producers with code](https://dev.to/raphaeldasilva/my-top-rap-producers-with-code-5080)
 * [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
 * [Contando histórias com uma inferface](https://dev.to/raphaeldasilva/contando-historias-com-uma-inferface-2ih1)
 
