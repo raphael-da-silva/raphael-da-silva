@@ -30,7 +30,6 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Gosto de me comunicar através da escrita.
-* Consigo me virar para ler artigos técnicos em inglês (ainda não falo nessa língua).
 
 ### Principais textos escritos
 
