@@ -28,7 +28,7 @@ Afinidades:
 
 ### Principais textos escritos
 
-Links com os principais posts que escrevi no meu blog.
+Links com alguns posts que escrevi.
 
 PHP:
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
