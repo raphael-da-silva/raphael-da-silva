@@ -12,7 +12,6 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 
 ## Assuntos de maior interesse (que são o meu foco)
 
-Afinidades:
 * Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2014).
