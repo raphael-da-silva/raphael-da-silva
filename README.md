@@ -16,11 +16,7 @@ Afinidades:
 * Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
 * Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos (dedicado desde 2014).
-
-Conceitos da Orientação a Objetos que me interessam:
-* Conceito de abstração.
-* Conceito de [interface](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/QuoteProvider.php).
-* Conceito de [injeção de dependência](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/HomeAction.php).
+* Interesse por conceitos da orientação a objetos como interfaces, injeção de dependência e abstrações.
 
 ## Estudos e comunicação 
 
@@ -28,6 +24,7 @@ Conceitos da Orientação a Objetos que me interessam:
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Gosto de me comunicar através da escrita.
+* Participei do stackoverflow para foi exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 ### Principais textos escritos
 
@@ -48,9 +45,3 @@ Interfaces:
 * [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
 * [Contando histórias com uma inferface](https://dev.to/raphaeldasilva/contando-historias-com-uma-inferface-2ih1)
 
-### Participação no stackoverflow em português
-
-O meu objetivo de participar do site foi exercitar a escrita, a didática e aprender nas partes que não possuo muito domínio.
-
-* [Perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions)
-* [Respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers)
