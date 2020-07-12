@@ -5,13 +5,9 @@ Dev.to: https://dev.to/raphaeldasilva
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
-***
-
 ## Apresentação
 
 Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
-
-***
 
 ## Assuntos de maior interesse (que são o meu foco)
 
