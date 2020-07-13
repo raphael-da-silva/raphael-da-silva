@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco é trabalhar com back-end e Orientação a Objetos (que estudo mais seriamente desde 2014), pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo sobre algo.
+Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo sobre algo.
 
 ## Assuntos de maior interesse (que são o meu foco)
 
