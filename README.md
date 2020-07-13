@@ -25,9 +25,7 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 * Gosto de me comunicar através da escrita.
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
-### Principais textos escritos
-
-Links com alguns posts que escrevi.
+### Links com alguns posts que escrevi
 
 PHP:
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
