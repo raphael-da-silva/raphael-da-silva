@@ -1,4 +1,4 @@
-# Escritor (de código e uns posts)
+## Escritor (de código e uns posts)
 
 Blog: http://raphael-da-silva.github.io \
 Dev.to: https://dev.to/raphaeldasilva \
