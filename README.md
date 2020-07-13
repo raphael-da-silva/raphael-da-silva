@@ -2,7 +2,7 @@
 
 Blog: http://raphael-da-silva.github.io \
 Dev.to: https://dev.to/raphaeldasilva \
-Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/ \
+Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
