@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/raphael-da-silva2020/
 
 ## Apresentação
 
-Sou um programador com experiência em PHP e desenvolvimento web que iniciou na área em 2012, o meu foco back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo sobre algo.
+Tenho experiência em PHP e desenvolvimento web, o meu foco back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo sobre algo.
 
 ## Assuntos de maior interesse (que são o meu foco)
 
@@ -22,7 +22,7 @@ Sou um programador com experiência em PHP e desenvolvimento web que iniciou na 
 ### Comunicação e método de estudo
 
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
-* Gosto de me comunicar através da escrita.
+* Gosto de me comunicar/expressar através da escrita.
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 ### Links com alguns posts que escrevi
@@ -31,10 +31,7 @@ PHP:
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
-
-Ferramentas:
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
-* [Uso do pipe (a.k.a o tubo que conecta tudo)](https://raphael-da-silva.github.io/uso-do-pipe/)
 
 Interfaces:
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
