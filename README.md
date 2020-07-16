@@ -4,6 +4,8 @@
 <a href="https://dev.to/raphaeldasilva">Dev.to</a> |
 <a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a>
 
+<a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+
 ## Apresentação
 
 Tenho experiência em PHP e desenvolvimento web, o meu foco back-end e Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo sobre algo.
