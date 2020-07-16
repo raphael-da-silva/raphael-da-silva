@@ -12,8 +12,7 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco back-end e Orientaç
 
 ## Assuntos de maior interesse (que são o meu foco)
 
-* Maior afinidade com PHP e [back-end](https://raphael-da-silva.github.io/back-end/).
-* Maior afinidade com [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
+* Maior afinidade com PHP e back-end e [Orientação a Objetos](https://github.com/raphael-da-silva/frases-de-filmes/blob/master/src/MoviesQuotes/ArrayMovieQuoteProvider.php).
 * Maior tempo de estudo em PHP e Orientação a Objetos.
 * Interesse por conceitos da orientação a objetos como interfaces, injeção de dependência e abstrações.
 
