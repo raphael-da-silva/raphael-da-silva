@@ -29,7 +29,7 @@ PHP:
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
 
-Interfaces:
+Interfaces (de objetos):
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 * [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
 * [Contando histórias com uma inferface](https://dev.to/raphaeldasilva/contando-historias-com-uma-inferface-2ih1)
