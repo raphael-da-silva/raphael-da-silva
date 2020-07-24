@@ -8,7 +8,7 @@
 
 ## Apresentação
 
-Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo.
+Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. Gosto de escrever código e [escrever alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo. **Talvez seja por conta dessa relação com escrever que acabei gostando de programação, já que programar é escrever.**
 
 ## Assuntos de interesse (que são o meu foco)
 
@@ -18,7 +18,6 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 ## Estudos e comunição
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
 * Gosto de me comunicar/expressar através da escrita.
-* **Talvez seja por conta dessa relação com escrever que acabei gostando de programação, já que programar é escrever.**
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 ## Links com alguns posts que escrevi
