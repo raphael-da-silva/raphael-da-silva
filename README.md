@@ -17,7 +17,8 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 
 ## Estudos e comunição
 * Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
-* Gosto de me comunicar/expressar através da escrita (talvez seja por isso que acabei gostando de programação, já que programar é escrever).
+* Gosto de me comunicar/expressar através da escrita.
+* **Talvez seja por conta dessa relação com escrever que acabei gostando de programação, já que programar é escrever.**
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 ## Links com alguns posts que escrevi
