@@ -9,9 +9,7 @@
 
 ## Apresentação
 
-Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. 
-
-[Escrevo alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo.
+Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. [Escrevo alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo.
 
 ## Assuntos de interesse (que são o meu foco)
 
@@ -34,5 +32,4 @@ PHP:
 Interfaces (de objetos):
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 * [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
-* [Contando histórias com uma inferface](https://dev.to/raphaeldasilva/contando-historias-com-uma-inferface-2ih1)
 
