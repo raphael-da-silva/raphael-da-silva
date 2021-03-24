@@ -28,3 +28,6 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 * [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
 
+## Status
+
+Estou fora do mercado de trabalho de programação há bastante tempo, me mantenho escrevendo sobre os temas de meu interesse enquanto não consigo uma recolocação.
