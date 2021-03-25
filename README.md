@@ -9,7 +9,7 @@
 
 ## Apresentação
 
-Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. [Escrevo alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), vejo a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo (que as vezes é código e as vezes é um post).
+Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos, pois são as áreas com que tenho mais interesse e afinidade. [Escrevo alguns posts técnicos em um blog](http://raphael-da-silva.github.io/), uso a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte. No fim, estou sempre escrevendo algo (que as vezes é código e as vezes é um post).
  
 ## Interesses/afinidades
 
