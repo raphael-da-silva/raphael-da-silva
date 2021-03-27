@@ -25,7 +25,6 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
-* [Relacionamentos (amorosos) e interfaces (de objetos)](https://dev.to/raphaeldasilva/relacionamentos-amorosos-e-interfaces-de-objetos-5g3o)
 
 ## Status
 
