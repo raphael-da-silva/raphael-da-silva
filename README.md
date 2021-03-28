@@ -14,8 +14,7 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 ## Interesses/afinidades
 
 * Interesse por conceitos da orientação a objetos como interfaces, injeção de dependência e abstrações.
-* Gosto de escrever (para estudar e fixar o conhecimento aprendido no código-fonte).
-* Gosto de me comunicar/expressar e estruturar as coisas mentalmente através da escrita.
+* Escrevo (para fixar o conhecimento aprendido e estruturar as coisas mentalmente através da escrita).
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 ## Alguns posts que escrevi
