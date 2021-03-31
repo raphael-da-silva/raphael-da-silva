@@ -25,6 +25,6 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
 * [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 
-## Status...
+## Status (desacoplado)
 
 Estou fora do mercado de trabalho de programação há bastante tempo, me mantenho escrevendo sobre os temas de meu interesse enquanto isso. Daria para dizer que passei muito tempo desacoplado da área.
