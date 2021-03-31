@@ -27,4 +27,4 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 
 ## Status...
 
-Estou fora do mercado de trabalho de programação há bastante tempo, me mantenho escrevendo sobre os temas de meu interesse enquanto isso.
+Estou fora do mercado de trabalho de programação há bastante tempo, me mantenho escrevendo sobre os temas de meu interesse enquanto isso. Daria para dizer que passei muito tempo desacoplado da área.
