@@ -1,4 +1,4 @@
-## `exec(Escrevendo algo... as vezes código e as vezes uns posts)`
+## $Dev.links
 
 <a href="http://raphael-da-silva.github.io">Blog</a> | 
 <a href="https://dev.to/raphaeldasilva">Dev.to</a> |
