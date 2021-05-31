@@ -15,7 +15,7 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * Interesse por conceitos da orientação a objetos como interfaces, injeção de dependência e abstrações.
 * Escrevo (para fixar os conceitos e conhecimento aprendido e estruturar as coisas mentalmente).
 
-### $Dev.write(Alguns posts)
+### $Dev->write('Alguns posts')
 
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
