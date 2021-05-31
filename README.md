@@ -17,7 +17,7 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * Escrevo (para fixar os conceitos e conhecimento aprendido e estruturar as coisas mentalmente).
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
-## $Dev.write(Alguns posts que escrevi)
+## $Dev.write(Alguns posts)
 
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
@@ -27,4 +27,4 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 
 ## Status
 
-Estou fora do mercado de trabalho de programação há bastante tempo, me mantenho escrevendo sobre os temas de meu interesse enquanto isso. Daria para dizer que passei muito tempo desacoplado da área.
+Estou fora do mercado de trabalho. Daria para dizer que passei muito tempo desacoplado da área.
