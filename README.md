@@ -18,8 +18,6 @@ Posts escritos:
 * [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
 * [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
 * [O operador splat no PHP](https://raphael-da-silva.github.io/operador-splat/)
-* [Uso básico da biblioteca Doctrine DBAL](https://raphael-da-silva.github.io/uso-basico-doctrine-dbal/)
-* [Compondo os vingadores (da marvel) com objetos](https://raphael-da-silva.github.io/composite-vingadores/)
 
 ### Status
 
