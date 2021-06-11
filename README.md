@@ -1,6 +1,6 @@
 ### Apresentação
 
-Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência), pois são as áreas com que tenho mais interesse/afinidade.
+Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência), pois são as partes que tenho mais interesse/afinidade.
  
 ### $dev->write
 
