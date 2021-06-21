@@ -10,10 +10,6 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 * Uso a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
 * No fim, estou sempre escrevendo algo (que as vezes é código e as vezes é um post).
 
-Exemplos de textos escritos:
-* [Nullable types vs. Parâmetros opcionais](https://raphael-da-silva.github.io/nullable-types-vs-parametros-opcionais/)
-* [Funções anônimas estáticas no PHP](https://raphael-da-silva.github.io/static-functions/)
-
 ### Status
 
 Estou fora do mercado de trabalho. Daria para dizer que passei muito tempo desacoplado da área.
