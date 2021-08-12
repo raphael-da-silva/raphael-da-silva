@@ -2,7 +2,7 @@
 
 Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
  
-### $dev->write
+### $dev->write();
 
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 * Escrevo (para fixar os conceitos e conhecimento aprendido e estruturar as coisas mentalmente).
