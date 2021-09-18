@@ -1,3 +1,9 @@
+
+<a href="http://raphael-da-silva.github.io">Blog</a> | 
+<a href="https://dev.to/raphaeldasilva">Dev.to</a> |
+<a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a> |
+<a href="https://github.com/raphael-da-silva/curriculo/blob/master/curriculo-raphael-da-silva.md">Currículo</a>
+
 ### Apresentação
 
 Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
@@ -13,10 +19,5 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 Estou fora do mercado de trabalho. Daria para dizer que passei muito tempo desacoplado da área.
 
 ***
-
-<a href="http://raphael-da-silva.github.io">Blog</a> | 
-<a href="https://dev.to/raphaeldasilva">Dev.to</a> |
-<a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a> |
-<a href="https://github.com/raphael-da-silva/curriculo/blob/master/curriculo-raphael-da-silva.md">Currículo</a>
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
