@@ -4,9 +4,13 @@
 <a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a> |
 <a href="https://github.com/raphael-da-silva/curriculo/blob/master/curriculo-raphael-da-silva.md">Currículo</a>
 
+***
+
 ### Apresentação
 
 Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
+
+***
 
 <!--
 ### $dev->write();
