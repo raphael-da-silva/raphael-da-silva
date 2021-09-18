@@ -5,10 +5,8 @@ Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, princ
 ### $dev->write();
 
 * Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
-* Escrevo (para fixar os conceitos e conhecimento aprendido e estruturar as coisas mentalmente).
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 * Uso a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
-* No fim, estou sempre escrevendo algo (que as vezes é código e as vezes é um post).
 
 ### Status
 
