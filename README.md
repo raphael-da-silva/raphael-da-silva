@@ -8,7 +8,7 @@
 
 ### Apresentação
 
-Tenho experiência em PHP e desenvolvimento web, o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
+Tenho experiência em desenvolvimento web (com PHP, Javascript, CSS e HTML), o meu foco é back-end e, principalmente, Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
 
 ***
 
