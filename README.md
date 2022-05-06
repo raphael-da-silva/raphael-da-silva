@@ -33,3 +33,4 @@ Estou fora do mercado de trabalho. Daria para dizer que passei muito tempo desac
 <!--
 ![Raphael da Silva stats](https://github-readme-stats.vercel.app/api?username=raphael-da-silva&show_icons=true&theme=radical)
 -->
+
