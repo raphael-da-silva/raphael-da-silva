@@ -8,7 +8,7 @@
 
 ### Apresentação
 
-Tenho experiência em desenvolvimento web (com PHP, Javascript, CSS e HTML), o meu foco foi Orientação a Objetos (com interesse em conceitos como interfaces e injeção de dependência).
+Tenho experiência em desenvolvimento web (com PHP, Javascript, CSS e HTML), o meu foco foi Orientação a Objetos com interesse em conceitos do paradigma como interfaces, injeção de dependência e criação de código mais flexível e menos acoplado).
 
 ***
 
