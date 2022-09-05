@@ -1,8 +1,5 @@
 
-<a href="http://raphael-da-silva.github.io">Blog</a> | 
-<a href="https://dev.to/raphaeldasilva">Dev.to</a> |
-<a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a> |
-<a href="https://github.com/raphael-da-silva/curriculo/blob/master/curriculo-raphael-da-silva.md">Currículo</a>
+## <a href="http://raphael-da-silva.github.io">Blog</a> |  <a href="https://dev.to/raphaeldasilva">Dev.to</a> | <a href="https://www.linkedin.com/in/raphael-da-silva2020/">Linkedin</a> | <a href="https://github.com/raphael-da-silva/curriculo/blob/master/curriculo-raphael-da-silva.md">Currículo</a>
 
 ***
 
