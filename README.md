@@ -9,9 +9,7 @@ Tenho experiência em desenvolvimento web (com PHP, Javascript, CSS e HTML), o m
 
 ***
 
-<!--
 ### $dev->write();
--->
 
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 * Uso a [escrita](https://raphael-da-silva.github.io/escrita-io/) como uma forma de complemento para reforçar o que é aprendido no código-fonte.
