@@ -5,7 +5,7 @@
 
 ### Apresentação
 
-Tenho experiência em desenvolvimento web (com PHP, Javascript, CSS e HTML), o meu foco foi Orientação a Objetos com interesse em conceitos do paradigma.
+Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML), o meu foco foi Orientação a Objetos com interesse em conceitos do paradigma.
 
 ***
 
