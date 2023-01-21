@@ -20,6 +20,4 @@ Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTM
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png?theme=dark" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
-![Raphael da Silva stats](https://github-readme-stats.vercel.app/api?username=raphael-da-silva&show_icons=true&theme=radical)
-
 
