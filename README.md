@@ -13,17 +13,10 @@ Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTM
 
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 
-<!--
-### Status
-
-Estou fora do mercado de trabalho. Daria para dizer que passei muito tempo desacoplado da área.
--->
-
-***
 
 ### Participação no Stackoverflow
 
-* Participei do stackoverflow para exercitar a escrita, a didática e aprender fazendo [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
+* [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png?theme=dark" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
