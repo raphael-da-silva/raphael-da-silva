@@ -7,6 +7,8 @@
 
 Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
 
+Estou procurando voltar para o mercado de trabalho.
+
 ***
 
 ### $dev->write();
