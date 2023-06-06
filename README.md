@@ -3,7 +3,7 @@
 
 ***
 
-### Apresentação
+## Apresentação
 
 * Gosto de PHP e Orientação a Objetos.
 
@@ -16,7 +16,7 @@
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 
 
-### Participação no Stackoverflow
+#### Participação no Stackoverflow
 
 * As minhas [perguntas](https://pt.stackoverflow.com/users/108790/raphael?tab=questions) e [respostas](https://pt.stackoverflow.com/users/108790/raphael?tab=answers).
 
