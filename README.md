@@ -5,9 +5,9 @@
 
 ### Apresentação
 
-Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
+Gosto de PHP e Orientação a Objetos.
 
-Estou procurando voltar para o mercado de trabalho.
+Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
 
 ***
 
