@@ -5,9 +5,9 @@
 
 ### Apresentação
 
-Gosto de PHP e Orientação a Objetos.
+* Gosto de PHP e Orientação a Objetos.
 
-Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
+* Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
 
 ***
 
