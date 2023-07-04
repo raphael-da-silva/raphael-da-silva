@@ -4,8 +4,8 @@
 
 ## Apresentação
 
+* Eu sou programador.
 * Gosto de PHP e Orientação a Objetos.
-
 * Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
 
 ***
