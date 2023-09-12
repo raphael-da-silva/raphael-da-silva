@@ -5,8 +5,7 @@
 ## Apresentação
 
 * Eu sou programador.
-* Gosto de PHP e Orientação a Objetos.
-* Tenho experiência em desenvolvimento web (com PHP, Javascript, MySQL, CSS e HTML).
+* Tenho experiência em desenvolvimento web (com PHP, Javascript com Jquery, MySQL, CSS e HTML).
 
 ***
 
