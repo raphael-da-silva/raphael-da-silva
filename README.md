@@ -9,7 +9,7 @@
 
 ***
 
-### $dev->write();
+## $dev->write();
 
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 
