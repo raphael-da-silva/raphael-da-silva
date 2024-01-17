@@ -8,6 +8,7 @@
 * Meus primeiros contatos com programação foi em 2011 e 2012.
 * Tenho experiência em desenvolvimento web (com PHP, Javascript com Jquery, MySQL, CSS e HTML).
 * A linguagem que mais tenho conhecimento é PHP.
+* Orientação a Objetos é um paradigma que gosto muito.
 
 ***
 
