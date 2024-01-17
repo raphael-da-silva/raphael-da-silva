@@ -12,9 +12,6 @@
 
 ***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-da-silva&hide_progress=false)
-
-
 ## `$dev->write("Escrevendo sobre programação");`
 
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
@@ -27,4 +24,7 @@
 
 <a href="https://pt.stackoverflow.com/users/108790/raphael"><img src="https://pt.stackoverflow.com/users/flair/108790.png?theme=dark" width="208" height="58" alt="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de raphael em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 
+***
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-da-silva&hide_progress=false)
 
