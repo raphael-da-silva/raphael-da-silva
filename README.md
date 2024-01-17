@@ -14,6 +14,7 @@
 
 ## `$dev->write("Escrevendo sobre programação");`
 
+* Comecei a me dedicar a escrita em 2018 ao contribuir no stackoverflow.
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
 
 
