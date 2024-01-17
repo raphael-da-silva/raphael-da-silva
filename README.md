@@ -12,6 +12,9 @@
 
 ***
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-da-silva&hide_progress=false)
+
+
 ## `$dev->write("Escrevendo sobre programação");`
 
 * [Escrevo alguns posts sobre programação em um blog](http://raphael-da-silva.github.io/).
